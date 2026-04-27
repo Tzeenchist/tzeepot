@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+cache.json
+state.json
+config.json
+DEPOT-STATUS.md
+TZEEPOT-STATUS.md
+.pytest_cache/
